@@ -1,4 +1,4 @@
-# SUPERVISED CLUSTERING PROJECT (TERM - III)
+# SUPERVISED LEARNING PROJECT-3 (TERM - III)
 ### Machine Learning
 
 Dataset link: https://www.kaggle.com/datasets/jacobboober/brands?select=brand_details.csv
